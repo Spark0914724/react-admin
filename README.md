@@ -1,10 +1,3 @@
-# react-admin [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmarmelab%2Freact-admin.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmarmelab%2Freact-admin?ref=badge_shield) [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
-
-A frontend Framework for building single-page applications running in the browser on top of REST/GraphQL APIs, using TypeScript, [React](https://facebook.github.io/react/) and [Material Design](https://material.io/). Open sourced and maintained by [marmelab](https://marmelab.com/).
-
-[Home page](https://marmelab.com/react-admin/) - [Documentation](https://marmelab.com/react-admin/documentation.html) - [Examples](#examples) - [Blog](https://marmelab.com/blog/tags/react-admin) - [Releases](https://github.com/marmelab/react-admin/releases) - [Support](#support)
-
-[![react-admin-demo](https://marmelab.com/react-admin/img/react-admin-demo-still.png)](https://www.youtube.com/watch?v=bJEo1O1oT6o)
 
 ## Features
 
@@ -34,13 +27,6 @@ npm install react-admin
 #or
 yarn add react-admin
 ```
-
-## Documentation
-
-* Read the [Tutorial](https://marmelab.com/react-admin/Tutorial.html) for a 30 minutes introduction
-* Watch the [YouTube video tutorials](https://www.youtube.com/@react-admin)
-* Head to the [Documentation](https://marmelab.com/react-admin/documentation.html) for a complete API reference
-* Checkout the source code of the examples ([e-commerce](https://github.com/marmelab/react-admin/tree/master/examples/demo), [CRM](https://github.com/marmelab/react-admin/tree/master/examples/crm), [blog](https://github.com/marmelab/react-admin/tree/master/examples/simple), [media player](https://github.com/navidrome/navidrome/tree/master/ui))
 
 ## At a Glance
 
