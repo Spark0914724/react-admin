@@ -148,11 +148,6 @@ make run-demo
 
 And then browse to the URL displayed in your console.
 
-## Support
-
-- Get commercial support from Marmelab via [React-Admin Enterprise Edition](https://react-admin-ee.marmelab.com#support)
-- Get community support via [Discord](https://discord.gg/GeZF9sqh3N) and [StackOverflow](https://stackoverflow.com/questions/tagged/react-admin). 
-
 ## Versions In This Repository
 
 * [master](https://github.com/marmelab/react-admin/commits/master) - commits that will be included in the next _patch_ release
